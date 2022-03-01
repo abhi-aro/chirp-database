@@ -3,14 +3,23 @@
     {
       "id" : 1,
       "name": "User 1",
-      "title" : "Testing mock database"
+      "username" : "My first content!",
+      "password": "",
+      "email":"",
+      "dob" : "",
+      "age": "",
+      "phoneNo" :"",
+      "Gender" : ""
     }
   ],
   "posts":[
     {
       "id" : 0,
       "title": "First post!",
-      "content" : "My first content!"
+      "image": "",
+      "video": "",
+      "username" : "My first content!",
+      "date" : ""
     }
   ],
   "comments" : [
