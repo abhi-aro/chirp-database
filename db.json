@@ -1,32 +1,99 @@
 {
-  "users":[
+  "users": [
     {
-      "id" : 1,
-      "name": "User 1",
-      "username" : "My first content!",
-      "password": "",
-      "email":"",
-      "dob" : "",
-      "age": "",
-      "phoneNo" :"",
-      "Gender" : ""
+      "id": 7,
+      "name": "Michael",
+      "userName": "@Lawson",
+      "email": "michael.lawson@reqres.in",
+      "password": "123456",
+      "dob": "12032000",
+      "phoneNo": "1231234123",
+      "gender": "Male",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Lindsay",
+      "userName": "@Ferguson",
+      "email": "lindsay.ferguson@reqres.in",
+      "password": "123456",
+      "dob": "12032000",
+      "phoneNo": "1231234123",
+      "gender": "Female",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Tobias",
+      "userName": "@Funke",
+      "email": "tobias.funke@reqres.in",
+      "password": "123456",
+      "dob": "12032000",
+      "phoneNo": "1231234123",
+      "gender": "Male",
+      "avatar": "https://reqres.in/img/faces/9-image.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Byron",
+      "userName": "@Fields",
+      "email": "byron.fields@reqres.in",
+      "password": "123456",
+      "dob": "12032000",
+      "phoneNo": "1231234123",
+      "gender": "Male",
+      "avatar": "https://reqres.in/img/faces/10-image.jpg"
+    },
+    {
+      "id": 11,
+      "name": "George",
+      "userName": "@Edwards",
+      "email": "george.edwards@reqres.in",
+      "password": "123456",
+      "dob": "12032000",
+      "phoneNo": "1231234123",
+      "gender": "Male",
+      "avatar": "https://reqres.in/img/faces/11-image.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Rachel",
+      "userName": "@Howell",
+      "email": "rachel.howell@reqres.in",
+      "password": "123456",
+      "dob": "12032000",
+      "phoneNo": "1231234123",
+      "gender": "Male",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg"
     }
   ],
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "image": "",
-      "video": "",
-      "username" : "My first content!",
-      "date" : ""
-    }
-  ],
-  "comments" : [
+  "posts": [
     {
       "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "username": "@Howell",
+      "tweet": "Title of the post",
+      "image": "",
+      "video": "",
+      "date": "",
+      "likes": 0,
+      "retweets": 0,
+      "comments": []
+    },
+    {
+      "id": 0,
+      "username": "@Howell",
+      "tweet": "Title of the post",
+      "image": "",
+      "video": "",
+      "date": "",
+      "likes": 0,
+      "retweets": 0,
+      "comments": []
+    }
+  ],
+  "bookmarks": [
+    {
+
     }
   ]
 }
