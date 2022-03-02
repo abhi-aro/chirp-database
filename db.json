@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": 7,
+      "id": 1,
       "name": "Michael",
       "userName": "@Lawson",
       "email": "michael.lawson@reqres.in",
@@ -12,7 +12,7 @@
       "avatar": "https://reqres.in/img/faces/7-image.jpg"
     },
     {
-      "id": 8,
+      "id": 2,
       "name": "Lindsay",
       "userName": "@Ferguson",
       "email": "lindsay.ferguson@reqres.in",
@@ -23,7 +23,7 @@
       "avatar": "https://reqres.in/img/faces/8-image.jpg"
     },
     {
-      "id": 9,
+      "id": 3,
       "name": "Tobias",
       "userName": "@Funke",
       "email": "tobias.funke@reqres.in",
@@ -34,7 +34,7 @@
       "avatar": "https://reqres.in/img/faces/9-image.jpg"
     },
     {
-      "id": 10,
+      "id": 4,
       "name": "Byron",
       "userName": "@Fields",
       "email": "byron.fields@reqres.in",
@@ -45,7 +45,7 @@
       "avatar": "https://reqres.in/img/faces/10-image.jpg"
     },
     {
-      "id": 11,
+      "id": 5,
       "name": "George",
       "userName": "@Edwards",
       "email": "george.edwards@reqres.in",
@@ -56,7 +56,7 @@
       "avatar": "https://reqres.in/img/faces/11-image.jpg"
     },
     {
-      "id": 12,
+      "id": 6,
       "name": "Rachel",
       "userName": "@Howell",
       "email": "rachel.howell@reqres.in",
@@ -69,31 +69,126 @@
   ],
   "posts": [
     {
-      "id": 0,
+      "id": 1,
       "username": "@Howell",
-      "tweet": "Title of the post",
-      "image": "",
+      "tweet": "Some Random Tweet 1",
+      "image": "https://source.unsplash.com/random",
       "video": "",
-      "date": "",
-      "likes": 0,
-      "retweets": 0,
+      "date": "01032022",
+      "likes": 45,
+      "retweets": 150,
       "comments": []
     },
     {
-      "id": 0,
+      "id": 2,
+      "username": "@Lawson",
+      "tweet": "Some Random Tweet 2",
+      "image": "https://source.unsplash.com/random",
+      "video": "",
+      "date": "02022022",
+      "likes": 4,
+      "retweets": 10,
+      "comments": []
+    },
+    {
+      "id": 3,
       "username": "@Howell",
-      "tweet": "Title of the post",
+      "tweet": "Some Random Tweet 3",
+      "image": "https://source.unsplash.com/random",
+      "video": "",
+      "date": "03032022",
+      "likes": 50,
+      "retweets": 170,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "username": "@Ferguson",
+      "tweet": "Some Random Tweet 4",
+      "image": "https://source.unsplash.com/random",
+      "video": "",
+      "date": "10012022",
+      "likes": 5,
+      "retweets": 10,
+      "comments": []
+    },
+    {
+      "id": 5,
+      "username": "@Funke",
+      "tweet": "Some Random Tweet 5",
+      "image": "https://source.unsplash.com/random",
+      "video": "",
+      "date": "01032022",
+      "likes": 12,
+      "retweets": 15,
+      "comments": []
+    },
+    {
+      "id": 6,
+      "username": "@Howell",
+      "tweet": "Some Random Tweet 6",
       "image": "",
       "video": "",
-      "date": "",
-      "likes": 0,
-      "retweets": 0,
+      "date": "01022022",
+      "likes": 25,
+      "retweets": 60,
+      "comments": []
+    },
+    {
+      "id": 7,
+      "username": "@Tobias",
+      "tweet": "Some Random Tweet 7",
+      "image": "",
+      "video": "https://masai-course.s3.ap-south-1.amazonaws.com/lecture/11777/material/2bcb8d4c5956c9aa0345824df34c0d81/GMT20220226-082924_Recording_1920x1080.mp4",
+      "date": "01032022",
+      "likes": 45,
+      "retweets": 150,
+      "comments": []
+    },
+    {
+      "id": 8,
+      "username": "@Fields",
+      "tweet": "Some Random Tweet 8",
+      "image": "",
+      "video": "",
+      "date": "01032022",
+      "likes": 4,
+      "retweets": 5,
+      "comments": []
+    },
+    {
+      "id": 9,
+      "username": "@Howell",
+      "tweet": "Some Random Tweet 9",
+      "image": "https://source.unsplash.com/random/150x150",
+      "video": "",
+      "date": "22052021",
+      "likes": 345,
+      "retweets": 4350,
+      "comments": []
+    },
+    {
+      "id": 10,
+      "username": "@Fields",
+      "tweet": "Some Random Tweet 10",
+      "image": "https://source.unsplash.com/random",
+      "video": "",
+      "date": "23052021",
+      "likes": 450,
+      "retweets": 1150,
+      "comments": []
+    },
+    {
+      "id": 1,
+      "username": "@Howell",
+      "tweet": "Some Random Tweet 1",
+      "image": "https://source.unsplash.com/random",
+      "video": "",
+      "date": "01032022",
+      "likes": 45,
+      "retweets": 150,
       "comments": []
     }
   ],
-  "bookmarks": [
-    {
-
-    }
-  ]
+  "bookmarks": [{}]
 }
