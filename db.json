@@ -75,7 +75,7 @@
       "image": "https://source.unsplash.com/random",
       "video": "",
       "date": "01032022",
-      "likes": 45,
+      "likes": 51,
       "retweets": 150,
       "comments": []
     },
@@ -86,7 +86,7 @@
       "image": "https://source.unsplash.com/random",
       "video": "",
       "date": "02022022",
-      "likes": 4,
+      "likes": 9,
       "retweets": 10,
       "comments": []
     },
@@ -97,7 +97,7 @@
       "image": "https://source.unsplash.com/random",
       "video": "",
       "date": "03032022",
-      "likes": 50,
+      "likes": 51,
       "retweets": 170,
       "comments": []
     },
@@ -108,7 +108,7 @@
       "image": "https://source.unsplash.com/random",
       "video": "",
       "date": "10012022",
-      "likes": 5,
+      "likes": 6,
       "retweets": 10,
       "comments": []
     },
@@ -119,7 +119,7 @@
       "image": "https://source.unsplash.com/random",
       "video": "",
       "date": "01032022",
-      "likes": 12,
+      "likes": 14,
       "retweets": 15,
       "comments": []
     },
@@ -130,18 +130,18 @@
       "image": "",
       "video": "",
       "date": "01022022",
-      "likes": 25,
+      "likes": 27,
       "retweets": 60,
       "comments": []
     },
     {
       "id": 7,
-      "username": "@Tobias",
+      "username": "@Funke",
       "tweet": "Some Random Tweet 7",
       "image": "",
       "video": "https://masai-course.s3.ap-south-1.amazonaws.com/lecture/11777/material/2bcb8d4c5956c9aa0345824df34c0d81/GMT20220226-082924_Recording_1920x1080.mp4",
       "date": "01032022",
-      "likes": 45,
+      "likes": 47,
       "retweets": 150,
       "comments": []
     },
@@ -152,7 +152,7 @@
       "image": "",
       "video": "",
       "date": "01032022",
-      "likes": 4,
+      "likes": 5,
       "retweets": 5,
       "comments": []
     },
@@ -163,7 +163,7 @@
       "image": "https://source.unsplash.com/random/150x150",
       "video": "",
       "date": "22052021",
-      "likes": 345,
+      "likes": 347,
       "retweets": 4350,
       "comments": []
     },
@@ -174,21 +174,21 @@
       "image": "https://source.unsplash.com/random",
       "video": "",
       "date": "23052021",
-      "likes": 450,
+      "likes": 452,
       "retweets": 1150,
       "comments": []
     },
     {
-      "id": 1,
+      "id": 11,
       "username": "@Howell",
       "tweet": "Some Random Tweet 1",
       "image": "https://source.unsplash.com/random",
       "video": "",
       "date": "01032022",
-      "likes": 45,
+      "likes": 47,
       "retweets": 150,
       "comments": []
     }
   ],
-  "bookmarks": [{}]
+  "bookmarks": []
 }
