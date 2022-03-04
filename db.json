@@ -9,7 +9,11 @@
       "dob": "12032000",
       "phoneNo": "1231234123",
       "gender": "Male",
-      "avatar": "https://reqres.in/img/faces/7-image.jpg"
+      "avatar": "https://reqres.in/img/faces/7-image.jpg",
+      "location":"Paris",
+      "joined" :"March 2013",
+      "workPlace" : "Shopko Stores Operating Co., LLC",
+      "cover" :"https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image307?alt=media&token=1994361c-92b0-4d94-ba63-a7cbbda79f04"
     },
     {
       "id": 2,
@@ -20,7 +24,11 @@
       "dob": "12032000",
       "phoneNo": "1231234123",
       "gender": "Female",
-      "avatar": "https://reqres.in/img/faces/8-image.jpg"
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
+      "location":"Munich",
+      "joined" :"January 2014",
+      "workPlace" : "American Regent, Inc.",
+      "cover": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image424?alt=media&token=97e87c6a-afc2-4e6c-8314-002b54986718"
     },
     {
       "id": 3,
@@ -31,7 +39,11 @@
       "dob": "12032000",
       "phoneNo": "1231234123",
       "gender": "Male",
-      "avatar": "https://reqres.in/img/faces/9-image.jpg"
+      "avatar": "https://reqres.in/img/faces/9-image.jpg",
+      "location":"Chicago",
+      "joined" :"June 2018",
+      "workPlace" : "Allergy Laboratories, Inc.",
+      "cover":"https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image8630?alt=media&token=0d3fd898-55d5-4742-8d5d-1d86fd8aa74a"
     },
     {
       "id": 4,
@@ -42,7 +54,11 @@
       "dob": "12032000",
       "phoneNo": "1231234123",
       "gender": "Male",
-      "avatar": "https://reqres.in/img/faces/10-image.jpg"
+      "avatar": "https://reqres.in/img/faces/10-image.jpg",
+      "location":"Miami",
+      "joined" :"August 2009",
+      "workPlace" : "Bryant Ranch Prepack",
+      "cover":"https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image591?alt=media&token=3bde4644-9985-4198-b9f9-8ea92a5838dd"
     },
     {
       "id": 5,
@@ -53,7 +69,11 @@
       "dob": "12032000",
       "phoneNo": "1231234123",
       "gender": "Male",
-      "avatar": "https://reqres.in/img/faces/11-image.jpg"
+      "avatar": "https://reqres.in/img/faces/11-image.jpg",
+      "location":"New York",
+      "joined" :"June 2010",
+      "workPlace" : "Rite Aid Corporation",
+      "cover":"https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image654?alt=media&token=94ea0bf8-5ee3-4b49-ae6f-5b81ab687ab2"
     },
     {
       "id": 6,
@@ -64,12 +84,18 @@
       "dob": "12032000",
       "phoneNo": "1231234123",
       "gender": "Male",
-      "avatar": "https://reqres.in/img/faces/12-image.jpg"
+      "avatar": "https://reqres.in/img/faces/12-image.jpg",
+      "location":"London",
+      "joined" :"September 2006",
+      "workPlace" : "Google",
+      "cover":"https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image6067?alt=media&token=69f715ed-83b4-49c1-ae9f-958ce0a1992a"
     }
   ],
   "posts": [
     {
       "id": 1,
+      "name": "Rachel",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg",
       "username": "@Howell",
       "tweet": "Some Random Tweet 1",
       "image": "https://source.unsplash.com/random",
@@ -81,6 +107,8 @@
     },
     {
       "id": 2,
+      "name": "Michael",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg",
       "username": "@Lawson",
       "tweet": "Some Random Tweet 2",
       "image": "https://source.unsplash.com/random",
@@ -92,6 +120,8 @@
     },
     {
       "id": 3,
+      "name": "Rachel",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg",
       "username": "@Howell",
       "tweet": "Some Random Tweet 3",
       "image": "https://source.unsplash.com/random",
@@ -103,6 +133,8 @@
     },
     {
       "id": 4,
+      "name": "Lindsay",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg",
       "username": "@Ferguson",
       "tweet": "Some Random Tweet 4",
       "image": "https://source.unsplash.com/random",
@@ -114,6 +146,8 @@
     },
     {
       "id": 5,
+      "name": "Tobias",
+      "avatar": "https://reqres.in/img/faces/9-image.jpg",
       "username": "@Funke",
       "tweet": "Some Random Tweet 5",
       "image": "https://source.unsplash.com/random",
@@ -125,6 +159,8 @@
     },
     {
       "id": 6,
+      "name": "Rachel",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg",
       "username": "@Howell",
       "tweet": "Some Random Tweet 6",
       "image": "",
@@ -136,6 +172,8 @@
     },
     {
       "id": 7,
+      "name": "Tobias",
+      "avatar": "https://reqres.in/img/faces/9-image.jpg",
       "username": "@Funke",
       "tweet": "Some Random Tweet 7",
       "image": "",
@@ -147,6 +185,8 @@
     },
     {
       "id": 8,
+      "name": "Byron",
+      "avatar": "https://reqres.in/img/faces/10-image.jpg",
       "username": "@Fields",
       "tweet": "Some Random Tweet 8",
       "image": "",
@@ -158,6 +198,8 @@
     },
     {
       "id": 9,
+      "name": "Rachel",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg",
       "username": "@Howell",
       "tweet": "Some Random Tweet 9",
       "image": "https://source.unsplash.com/random/150x150",
@@ -169,6 +211,8 @@
     },
     {
       "id": 10,
+      "name": "Byron",
+      "avatar": "https://reqres.in/img/faces/10-image.jpg",
       "username": "@Fields",
       "tweet": "Some Random Tweet 10",
       "image": "https://source.unsplash.com/random",
@@ -180,6 +224,8 @@
     },
     {
       "id": 11,
+      "name": "Rachel",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg",
       "username": "@Howell",
       "tweet": "Some Random Tweet 1",
       "image": "https://source.unsplash.com/random",
