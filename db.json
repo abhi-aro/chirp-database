@@ -103,7 +103,8 @@
       "date": "01032022",
       "likes": 51,
       "retweets": 150,
-      "comments": []
+      "comments": [],
+      "category":"covid19"
     },
     {
       "id": 2,
@@ -116,7 +117,8 @@
       "date": "02022022",
       "likes": 9,
       "retweets": 10,
-      "comments": []
+      "comments": [],
+      "category":"ForYou"
     },
     {
       "id": 3,
@@ -129,7 +131,8 @@
       "date": "03032022",
       "likes": 51,
       "retweets": 170,
-      "comments": []
+      "comments": [],
+      "category":"news"
     },
     {
       "id": 4,
@@ -142,7 +145,8 @@
       "date": "10012022",
       "likes": 6,
       "retweets": 10,
-      "comments": []
+      "comments": [],
+      "category":"ForYou"
     },
     {
       "id": 5,
@@ -155,7 +159,8 @@
       "date": "01032022",
       "likes": 14,
       "retweets": 15,
-      "comments": []
+      "comments": [],
+      "category":"covid19"
     },
     {
       "id": 6,
@@ -168,7 +173,8 @@
       "date": "01022022",
       "likes": 27,
       "retweets": 60,
-      "comments": []
+      "comments": [],
+      "category":"trending"
     },
     {
       "id": 7,
@@ -181,7 +187,8 @@
       "date": "01032022",
       "likes": 47,
       "retweets": 150,
-      "comments": []
+      "comments": [],
+      "category":"sports"
     },
     {
       "id": 8,
@@ -194,7 +201,8 @@
       "date": "01032022",
       "likes": 5,
       "retweets": 5,
-      "comments": []
+      "comments": [],
+      "category":"trending"
     },
     {
       "id": 9,
@@ -207,7 +215,8 @@
       "date": "22052021",
       "likes": 347,
       "retweets": 4350,
-      "comments": []
+      "comments": [],
+      "category":"entertainment"
     },
     {
       "id": 10,
@@ -220,7 +229,8 @@
       "date": "23052021",
       "likes": 452,
       "retweets": 1150,
-      "comments": []
+      "comments": [],
+      "category":"sports"
     },
     {
       "id": 11,
@@ -233,7 +243,8 @@
       "date": "01032022",
       "likes": 47,
       "retweets": 150,
-      "comments": []
+      "comments": [],
+      "category":"news"
     }
   ],
   "bookmarks": [],
