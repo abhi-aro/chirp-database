@@ -10,10 +10,10 @@
       "phoneNo": "1231234123",
       "gender": "Male",
       "avatar": "https://reqres.in/img/faces/7-image.jpg",
-      "location":"Paris",
-      "joined" :"March 2013",
-      "workPlace" : "Shopko Stores Operating Co., LLC",
-      "cover" :"https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image307?alt=media&token=1994361c-92b0-4d94-ba63-a7cbbda79f04"
+      "location": "Paris",
+      "joined": "March 2013",
+      "workPlace": "Shopko Stores Operating Co., LLC",
+      "cover": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image307?alt=media&token=1994361c-92b0-4d94-ba63-a7cbbda79f04"
     },
     {
       "id": 2,
@@ -25,9 +25,9 @@
       "phoneNo": "1231234123",
       "gender": "Female",
       "avatar": "https://reqres.in/img/faces/8-image.jpg",
-      "location":"Munich",
-      "joined" :"January 2014",
-      "workPlace" : "American Regent, Inc.",
+      "location": "Munich",
+      "joined": "January 2014",
+      "workPlace": "American Regent, Inc.",
       "cover": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image424?alt=media&token=97e87c6a-afc2-4e6c-8314-002b54986718"
     },
     {
@@ -40,10 +40,10 @@
       "phoneNo": "1231234123",
       "gender": "Male",
       "avatar": "https://reqres.in/img/faces/9-image.jpg",
-      "location":"Chicago",
-      "joined" :"June 2018",
-      "workPlace" : "Allergy Laboratories, Inc.",
-      "cover":"https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image8630?alt=media&token=0d3fd898-55d5-4742-8d5d-1d86fd8aa74a"
+      "location": "Chicago",
+      "joined": "June 2018",
+      "workPlace": "Allergy Laboratories, Inc.",
+      "cover": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image8630?alt=media&token=0d3fd898-55d5-4742-8d5d-1d86fd8aa74a"
     },
     {
       "id": 4,
@@ -55,10 +55,10 @@
       "phoneNo": "1231234123",
       "gender": "Male",
       "avatar": "https://reqres.in/img/faces/10-image.jpg",
-      "location":"Miami",
-      "joined" :"August 2009",
-      "workPlace" : "Bryant Ranch Prepack",
-      "cover":"https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image591?alt=media&token=3bde4644-9985-4198-b9f9-8ea92a5838dd"
+      "location": "Miami",
+      "joined": "August 2009",
+      "workPlace": "Bryant Ranch Prepack",
+      "cover": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image591?alt=media&token=3bde4644-9985-4198-b9f9-8ea92a5838dd"
     },
     {
       "id": 5,
@@ -70,10 +70,10 @@
       "phoneNo": "1231234123",
       "gender": "Male",
       "avatar": "https://reqres.in/img/faces/11-image.jpg",
-      "location":"New York",
-      "joined" :"June 2010",
-      "workPlace" : "Rite Aid Corporation",
-      "cover":"https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image654?alt=media&token=94ea0bf8-5ee3-4b49-ae6f-5b81ab687ab2"
+      "location": "New York",
+      "joined": "June 2010",
+      "workPlace": "Rite Aid Corporation",
+      "cover": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image654?alt=media&token=94ea0bf8-5ee3-4b49-ae6f-5b81ab687ab2"
     },
     {
       "id": 6,
@@ -85,10 +85,10 @@
       "phoneNo": "1231234123",
       "gender": "Male",
       "avatar": "https://reqres.in/img/faces/12-image.jpg",
-      "location":"London",
-      "joined" :"September 2006",
-      "workPlace" : "Google",
-      "cover":"https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image6067?alt=media&token=69f715ed-83b4-49c1-ae9f-958ce0a1992a"
+      "location": "London",
+      "joined": "September 2006",
+      "workPlace": "Google",
+      "cover": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image6067?alt=media&token=69f715ed-83b4-49c1-ae9f-958ce0a1992a"
     }
   ],
   "posts": [
@@ -104,7 +104,8 @@
       "likes": 51,
       "retweets": 150,
       "comments": [],
-      "category":"covid19"
+      "category": "covid19",
+      "content": "COVID-19: Vaccine information for children in India"
     },
     {
       "id": 2,
@@ -118,7 +119,8 @@
       "likes": 9,
       "retweets": 10,
       "comments": [],
-      "category":"ForYou"
+      "category": "ForYou",
+      "content": "INDvSL: India and Sri Lanka face off in the first Test"
     },
     {
       "id": 3,
@@ -132,7 +134,8 @@
       "likes": 51,
       "retweets": 170,
       "comments": [],
-      "category":"news"
+      "category": "news",
+      "content": "How to verify information involving the war in Ukraine, according to fact-checkers and experts"
     },
     {
       "id": 4,
@@ -146,7 +149,8 @@
       "likes": 6,
       "retweets": 10,
       "comments": [],
-      "category":"ForYou"
+      "category": "ForYou",
+      "content": "#PeaceInUkraine"
     },
     {
       "id": 5,
@@ -160,7 +164,8 @@
       "likes": 14,
       "retweets": 15,
       "comments": [],
-      "category":"covid19"
+      "category": "covid19",
+      "content": "Assembly Elections 2022: COVID-19 restrictions in place for campaigning"
     },
     {
       "id": 6,
@@ -174,7 +179,8 @@
       "likes": 27,
       "retweets": 60,
       "comments": [],
-      "category":"trending"
+      "category": "trending",
+      "content": "#Jadeja"
     },
     {
       "id": 7,
@@ -188,7 +194,8 @@
       "likes": 47,
       "retweets": 150,
       "comments": [],
-      "category":"sports"
+      "category": "sports",
+      "content": "INDvSL: India and Sri Lanka face off in the first Test"
     },
     {
       "id": 8,
@@ -202,7 +209,8 @@
       "likes": 5,
       "retweets": 5,
       "comments": [],
-      "category":"trending"
+      "category": "trending",
+      "content": "#JioConventionCentre"
     },
     {
       "id": 9,
@@ -216,7 +224,8 @@
       "likes": 347,
       "retweets": 4350,
       "comments": [],
-      "category":"entertainment"
+      "category": "entertainment",
+      "content": "Shahrukh Khan shared the teaser of his film Pathan"
     },
     {
       "id": 10,
@@ -230,7 +239,8 @@
       "likes": 452,
       "retweets": 1150,
       "comments": [],
-      "category":"sports"
+      "category": "sports",
+      "content": "Cricket legend Shane Warne has died at age 52"
     },
     {
       "id": 11,
@@ -244,7 +254,8 @@
       "likes": 47,
       "retweets": 150,
       "comments": [],
-      "category":"news"
+      "category": "news",
+      "content": "Indian students stranded in Ukraine seek help to come home"
     }
   ],
   "bookmarks": [],
