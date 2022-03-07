@@ -464,21 +464,6 @@
     }
   ],
   "bookmarks": [
-    {
-      "id": 1,
-      "name": "Rachel",
-      "avatar": "https://reqres.in/img/faces/12-image.jpg",
-      "username": "@Howell",
-      "tweet": "Some Random Tweet 1",
-      "image": "https://source.unsplash.com/random",
-      "video": "",
-      "date": "01032022",
-      "likes": 58,
-      "retweets": 150,
-      "comments": [],
-      "category": "covid19",
-      "content": "COVID-19:  Vaccine information for children in India"
-    }
   ],
   "retweets": []
 }
