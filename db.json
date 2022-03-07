@@ -179,6 +179,21 @@
       "joined": "January 2012",
       "workPlace": "Building @masaischool",
       "cover": "https://pbs.twimg.com/profile_banners/458002830/1622186527/1500x500"
+    },
+    {
+      "name": "Beast",
+      "userName": "@iscar",
+      "email": "",
+      "password": "something",
+      "dob": "31101996",
+      "phoneNo": "9876543210",
+      "gender": "Male",
+      "avatar": "https://reqres.in/img/faces/7-image.jpg",
+      "location": "india",
+      "joined": "06032022",
+      "workPlace": "",
+      "cover": "https://firebasestorage.googleapis.com/v0/b/fir-react-upload-dc714.appspot.com/o/image307?alt=media&token=1994361c-92b0-4d94-ba63-a7cbbda79f04",
+      "id": 13
     }
   ],
   "posts": [
@@ -191,7 +206,7 @@
       "image": "https://source.unsplash.com/random",
       "video": "",
       "date": "01032022",
-      "likes": 51,
+      "likes": 57,
       "retweets": 150,
       "comments": [],
       "category": "covid19",
@@ -206,7 +221,7 @@
       "image": "https://source.unsplash.com/random",
       "video": "",
       "date": "02022022",
-      "likes": 9,
+      "likes": 6,
       "retweets": 10,
       "comments": [],
       "category": "ForYou",
@@ -341,7 +356,7 @@
       "image": "",
       "video": "",
       "date": "31062018",
-      "likes": 17,
+      "likes": 16,
       "retweets": 200,
       "comments": []
     },
@@ -367,7 +382,7 @@
       "image": "",
       "video": "",
       "date": "22022022",
-      "likes": 68,
+      "likes": 67,
       "retweets": 49,
       "comments": []
     },
@@ -450,7 +465,7 @@
       "comments": []
     },
     {
-      "id": 16,
+      "id": 20,
       "name": "Naval",
       "avatar": "https://pbs.twimg.com/profile_images/1017685971041742849/SaIfF0rY_400x400.jpg",
       "username": "@naval",
@@ -461,8 +476,99 @@
       "likes": 17,
       "retweets": 20,
       "comments": []
+    },
+    {
+      "name": "Naval",
+      "avatar": "https://pbs.twimg.com/profile_images/1017685971041742849/SaIfF0rY_400x400.jpg",
+      "username": "@naval",
+      "tweet": "Some random tweet",
+      "image": "https://source.unsplash.com/random",
+      "video": "",
+      "date": "06032022",
+      "likes": 0,
+      "retweets": 0,
+      "comments": [],
+      "category": "",
+      "content": "",
+      "id": 21
+    },
+    {
+      "name": "Naval",
+      "avatar": "https://pbs.twimg.com/profile_images/1017685971041742849/SaIfF0rY_400x400.jpg",
+      "username": "@naval",
+      "tweet": "This is a tweet",
+      "image": "https://source.unsplash.com/random",
+      "video": "",
+      "date": "06032022",
+      "likes": 0,
+      "retweets": 0,
+      "comments": [],
+      "category": "",
+      "content": "",
+      "id": 22
+    },
+    {
+      "name": "Naval",
+      "avatar": "https://pbs.twimg.com/profile_images/1017685971041742849/SaIfF0rY_400x400.jpg",
+      "username": "@naval",
+      "tweet": "This is another tweet",
+      "image": "",
+      "video": "",
+      "date": "06032022",
+      "likes": 0,
+      "retweets": 0,
+      "comments": [],
+      "category": "",
+      "content": "",
+      "id": 23
+    },
+    {
+      "name": "Naval",
+      "avatar": "https://pbs.twimg.com/profile_images/1017685971041742849/SaIfF0rY_400x400.jpg",
+      "username": "@naval",
+      "tweet": "Something else",
+      "image": "",
+      "video": "",
+      "date": "06032022",
+      "likes": 0,
+      "retweets": 0,
+      "comments": [],
+      "category": "",
+      "content": "",
+      "id": 24
+    },
+    {
+      "name": "Naval",
+      "avatar": "https://pbs.twimg.com/profile_images/1017685971041742849/SaIfF0rY_400x400.jpg",
+      "username": "@naval",
+      "tweet": "Something else",
+      "image": "https://source.unsplash.com/random",
+      "video": "",
+      "date": "06032022",
+      "likes": 0,
+      "retweets": 0,
+      "comments": [],
+      "category": "",
+      "content": "",
+      "id": 25
     }
   ],
-  "bookmarks": [],
+  "bookmarks": [
+    {
+      "id": 1,
+      "name": "Rachel",
+      "avatar": "https://reqres.in/img/faces/12-image.jpg",
+      "username": "@Howell",
+      "tweet": "Some Random Tweet 1",
+      "image": "https://source.unsplash.com/random",
+      "video": "",
+      "date": "01032022",
+      "likes": 58,
+      "retweets": 150,
+      "comments": [],
+      "category": "covid19",
+      "content": "COVID-19: Vaccine information for children in India"
+    }
+  ],
   "retweets": []
 }
