@@ -28,7 +28,7 @@ yarn run start
 
 ## My personal Portfolio
 
-- Website: https://abhi-aro.herokuapp.com/
+- Website: [abhi-aro.tech](https://abhi-aro.tech/)
 - Github: [@PA-iscar](https://github.com/PA-iscar)
 - LinkedIn: [@abhi-aro](https://linkedin.com/in/abhi-aro)
 
