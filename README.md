@@ -2,7 +2,7 @@
 <p>
 </p>
 
-> Simple Json Server to be deployed, contains chirp project data
+> Simple Json Server to be deployed and used directly, contains user data for chirp (twitter clone) Project
 
 ### ✨ [Demo](https://chirp-database.herokuapp.com/)
 
@@ -20,17 +20,25 @@ yarn install
 yarn run start
 ```
 
-## Author
+## Authors
 
 👤 **Abhishek**
-👤 **Sachin**
-👤 **Suraj**
 
-## My personal Portfolio
-
-- Website: [abhi-aro.tech](https://abhi-aro.tech/)
+- Website: [Portfolio](https://abhi-aro.tech/)
 - Github: [@PA-iscar](https://github.com/PA-iscar)
 - LinkedIn: [@abhi-aro](https://linkedin.com/in/abhi-aro)
+
+👤 **Sachin Gupta**
+
+- Website: [Portfolio](https://sachin-gupta.netlify.app/)
+- Github: [@Guptaji03](https://github.com/Guptaji03)
+- LinkedIn: [@sachin-gupta-282a57220](https://www.linkedin.com/in/sachin-gupta-282a57220/)
+
+👤 **Suraj Himanshu**
+
+- Website: [Portfolio](https://suraj-himanshu-portfolio.herokuapp.com/)
+- Github: [@surajhimanshu](https://github.com/surajhimanshu)
+- LinkedIn: [@suraj-himanshu-9aa58215a](https://www.linkedin.com/in/suraj-himanshu-9aa58215a/)
 
 ## Show your support
 
